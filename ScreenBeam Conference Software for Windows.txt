@@ -1,0 +1,14 @@
+Minimum system requirements
+
+Windows 10 version 20H2 (Windows 11 support beginning in ScreenBeam Conference version 1.0.3.0)
+Processor: Intel Core i5 (7th generation) quad core 1.6 GHz or AMD-equivalent
+Memory: 8GB of RAM
+Space: 200MB
+Note: Microsoft Visual C++ redistributable package is included
+Release notes
+
+Features
+Wirelessly connects to the in-room video conferencing USB peripherals
+Works with a variety of web conferencing software such as; Teams, Zoom, Webex, GoToMeeting, Meets, and etc.  
+Changes since 1.0.3.0
+Bug fixes and improvements

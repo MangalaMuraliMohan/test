@@ -1,0 +1,61 @@
+##########################################
+##    Cirrus Contractor Compliance Report                       
+##########################################
+
+##==============================
+##    User / Computer info                        
+##==============================
+Script version: 0.9
+User: testuser 
+Full Name: 
+Host: HYSWD1TESTPC34
+Date: Wed 11/01/2023
+Results filename: Results.txt
+
+##==============================
+##    MAC Addresses                       
+##==============================
+## INFO: Showing MAC Addresses (readable format) ...
+
+Connection Name:  Ethernet
+Network Adapter:  Realtek PCIe GbE Family Controller
+Physical Address: E0-D5-5E-60-E7-95
+Transport Name:   \Device\Tcpip_{8B217389-55B8-445C-B4E0-F6F19DB1D075}
+
+## INFO: Showing MAC Addresses (CSV format) ...
+ 
+"Ethernet","Realtek PCIe GbE Family Controller","E0-D5-5E-60-E7-95","\Device\Tcpip_{8B217389-55B8-445C-B4E0-F6F19DB1D075}"
+
+##==============================
+##  OS Version and Build Checks
+##==============================
+OS Name:                   Microsoft Windows 11 Pro
+OS Version:                10.0.22000 N/A Build 22000
+## INFO: OS Version: Windows 10.0, build: 22000 - Min Supported Build is 19044
+OS Build 22000 is newer than or equal to 19044: SUCCESS
+
+##==============================
+##   Computer Name Check
+##==============================
+Hostname HYSWD1TESTPC34 with HY prefix: SUCCESS
+
+##==============================
+##   Local Admin Account Check
+##==============================
+Admin Account cirrusadmin present: SUCCESS
+
+
+##==============================
+##   Crowdstrike Check
+##==============================
+CSFalconService.exe          12208 Services                   0     29,572 K
+CSFalconContainer.exe         1120 Services                   0    129,652 K
+CSFalconContainer.exe         3656 Services                   0    127,464 K
+CSFalconContainer.exe          484 Services                   0      3,980 K
+CSFalconContainer.exe         5064 Services                   0     16,980 K
+
+CSFalcon is running: SUCCESS
+
+## INFO: Checks Completed - checking for Pass/Fail... 
+Overall Compliance Status: PASS 
+## INFO: emailing results to helprequest@cirrus.com using SMTP Server: mail.cirrus.com 

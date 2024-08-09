@@ -1,0 +1,100 @@
+Client IP Address	Name	Lease Expiration	Type	Unique ID	Description	Network Access Protection	Probation Expiration	Filter Profile	Policy
+192.168.166.1	OnePlus-Nord-2T-5G.soct.com	7/28/2023 2:29:36 PM	DHCP	be871cf9fd85		Full Access	N/A	None	
+192.168.166.2	Anoop-s-F23.soct.com	7/28/2023 3:57:25 PM	DHCP	2eb64139ba0b		Full Access	N/A	None	
+192.168.166.3		7/28/2023 8:18:26 AM	DHCP	d62c0b14e9cd		Full Access	N/A	None	
+192.168.166.4	realme-3.soct.com	7/28/2023 3:32:19 PM	DHCP	3e8ed38ee55f		Full Access	N/A	None	
+192.168.166.5		7/28/2023 2:46:27 PM	DHCP	520d44e60354		Full Access	N/A	None	
+192.168.166.6	Keval-s-Galaxy-A51.soct.com	7/28/2023 2:17:58 PM	DHCP	3626ffe93377		Full Access	N/A	None	
+192.168.166.7	Realme-C1.soct.com	7/28/2023 3:49:56 PM	DHCP	b8c74a5a21f9		Full Access	N/A	None	
+192.168.166.8	Satish-Chandra-s-S20-FE.soct.com	7/28/2023 1:09:10 PM	DHCP	eec71191a5f3		Full Access	N/A	None	
+192.168.166.9	Nimmala-s-S21-FE.soct.com	7/28/2023 1:41:32 PM	DHCP	4e4bd5e24093		Full Access	N/A	None	
+192.168.166.10	M2007J17I.soct.com	7/28/2023 2:37:51 PM	DHCP	185e0faf9e39		Full Access	N/A	None	
+192.168.166.11	OPPO-F21s-Pro-5G.soct.com	7/28/2023 9:02:15 AM	DHCP	767eddb1d80d		Full Access	N/A	None	
+192.168.166.12	M2006C3MII-Redmi9.soct.com	7/28/2023 1:57:42 PM	DHCP	103f44e39f1f		Full Access	N/A	None	
+192.168.166.13		7/28/2023 3:56:04 PM	DHCP	c23390cec298		Full Access	N/A	None	
+192.168.166.14	Yamuna-s-M33.soct.com	7/28/2023 3:08:24 PM	DHCP	16f37384c03f		Full Access	N/A	None	
+192.168.166.15		7/28/2023 2:15:24 PM	DHCP	3275902c0d1b		Full Access	N/A	None	
+192.168.166.16	vivo-1906.soct.com	7/28/2023 2:54:32 PM	DHCP	3e89b50d1e10		Full Access	N/A	None	
+192.168.166.17	Janaa-s-M12.soct.com	7/28/2023 3:31:54 PM	DHCP	6eb7ad5b673f		Full Access	N/A	None	
+192.168.166.18		7/28/2023 9:40:04 AM	DHCP	38e60abd7720		Full Access	N/A	None	
+192.168.166.19	realme-8s-5G.soct.com	7/28/2023 10:27:13 AM	DHCP	7640085e8f09		Full Access	N/A	None	
+192.168.166.20		7/28/2023 9:47:12 AM	DHCP	46858d7dc5aa		Full Access	N/A	None	
+192.168.166.21	OnePlus5T.soct.com	7/28/2023 3:52:59 PM	DHCP	e2cf26f8a200		Full Access	N/A	None	
+192.168.166.22	Amarjith-s-A51.soct.com	7/28/2023 1:16:15 PM	DHCP	ba9f0608e0d7		Full Access	N/A	None	
+192.168.166.23	Galaxy-M21.soct.com	7/28/2023 3:59:30 PM	DHCP	5a73ed246d1a		Full Access	N/A	None	
+192.168.166.24	realme-9.soct.com	7/28/2023 1:58:35 PM	DHCP	be2b8f3463c8		Full Access	N/A	None	
+192.168.166.25	Redmi7-Redmi.soct.com	7/28/2023 3:35:24 PM	DHCP	c83ddcc64d94		Full Access	N/A	None	
+192.168.166.26		7/28/2023 2:06:13 PM	DHCP	da433bac7816		Full Access	N/A	None	
+192.168.166.27		7/28/2023 3:23:14 PM	DHCP	02b1f35ce0ef		Full Access	N/A	None	
+192.168.166.28	Shabaz-s-Pixel-6a.soct.com	7/28/2023 1:41:24 PM	DHCP	1e2e81c12414		Full Access	N/A	None	
+192.168.166.29	realme-6-Pro.soct.com	7/28/2023 3:13:25 PM	DHCP	6e2af262ce27		Full Access	N/A	None	
+192.168.166.30	HYNB-SSHAIK.soct.com	7/28/2023 1:26:22 PM	DHCP	b068e6bab17b		Full Access	N/A	None	
+192.168.166.31	OnePlus-Nord-CE-2.soct.com	7/27/2023 1:50:19 PM	DHCP	524b9990288f		Full Access	N/A	None	
+192.168.166.32	OnePlus-Nord-N200-5G.soct.com	7/28/2023 2:05:46 PM	DHCP	d211ed912acb		Full Access	N/A	None	
+192.168.166.33	I2011.soct.com	7/28/2023 2:00:37 PM	DHCP	6e549e80850e		Full Access	N/A	None	
+192.168.166.34		7/28/2023 1:08:23 PM	DHCP	be1343a597f7		Full Access	N/A	None	
+192.168.166.35	Galaxy-Fold.soct.com	7/28/2023 8:27:37 AM	DHCP	0a4bed83c490		Full Access	N/A	None	
+192.168.166.36	HYNBAPATHAN.soct.com	7/28/2023 9:22:31 AM	DHCP	b068e6dabc19		Full Access	N/A	None	
+192.168.166.37	realme-5-Pro.soct.com	7/28/2023 2:11:31 PM	DHCP	5885e9c28455		Full Access	N/A	None	
+192.168.166.38	I2202.soct.com	7/28/2023 2:17:50 PM	DHCP	f6e6623d404c		Full Access	N/A	None	
+192.168.166.39	realme-9-5G.soct.com	7/28/2023 2:06:59 PM	DHCP	d249deef9c1a		Full Access	N/A	None	
+192.168.166.40		7/28/2023 2:34:07 PM	DHCP	fa659ed61f0f		Full Access	N/A	None	
+192.168.166.41	realme-7.soct.com	7/28/2023 2:38:39 PM	DHCP	c651080b4e2b		Full Access	N/A	None	
+192.168.166.42	Galaxy-M21-2021-Edition.soct.com	7/28/2023 3:10:36 PM	DHCP	e624462e7f02		Full Access	N/A	None	
+192.168.166.43		7/28/2023 3:01:39 PM	DHCP	3605eaa6bda9		Full Access	N/A	None	
+192.168.166.44	I2202.soct.com	7/28/2023 3:24:34 PM	DHCP	ded13d13acaa		Full Access	N/A	None	
+192.168.166.45	HUAWEI_Y9s-fb1b4a0bbbdfa7.soct.com	7/28/2023 10:25:08 AM	DHCP	d88adce6a45d		Full Access	N/A	None	
+192.168.166.46	OnePlus-10R-5G.soct.com	7/28/2023 3:00:49 PM	DHCP	be83c952b809		Full Access	N/A	None	
+192.168.166.47	vivo-1917.soct.com	7/28/2023 2:05:52 PM	DHCP	3255d1393ac3		Full Access	N/A	None	
+192.168.166.48	V2151.soct.com	7/28/2023 9:43:23 AM	DHCP	6ade101e2dbf		Full Access	N/A	None	
+192.168.166.49	V2158.soct.com	7/28/2023 2:00:04 PM	DHCP	f29eda5b6a22		Full Access	N/A	None	
+192.168.166.50	V2109.soct.com	7/28/2023 2:07:18 PM	DHCP	e682d8d066da		Full Access	N/A	None	
+192.168.166.51		7/28/2023 11:07:03 AM	DHCP	62f9e347eac2		Full Access	N/A	None	
+192.168.166.52	HYNB-PCHALLA.soct.com	7/27/2023 1:30:02 PM	DHCP	b0c090bf1e8f		Full Access	N/A	None	
+192.168.166.53	Galaxy-A20.soct.com	7/28/2023 11:18:51 AM	DHCP	426aa8aa5dcf		Full Access	N/A	None	
+192.168.166.54	LAPTOP-0SF39AAT.soct.com	7/28/2023 2:09:09 PM	DHCP	4c034fa639f7		Full Access	N/A	None	
+192.168.166.55	realme-7-Pro.soct.com	7/28/2023 2:17:39 PM	DHCP	8ac3010cc4bf		Full Access	N/A	None	
+192.168.166.56	OnePlus-Nord-CE-3-Lite-5G.soct.com	7/28/2023 1:27:20 PM	DHCP	e648779f9f26		Full Access	N/A	None	
+192.168.166.57	Galaxy-J6.soct.com	7/28/2023 3:24:20 PM	DHCP	f210a6166aee		Full Access	N/A	None	
+192.168.166.58	HYNB-PMAJUMDAR.soct.com	7/28/2023 4:05:29 PM	DHCP	b068e6dabdb7		Full Access	N/A	None	
+192.168.166.59	Galaxy-Tab-A.soct.com	7/28/2023 8:57:27 AM	DHCP	ba3cf40ef263		Full Access	N/A	None	
+192.168.166.60	Madha-s-F23.soct.com	7/28/2023 3:53:31 PM	DHCP	32005b5f64e3		Full Access	N/A	None	
+192.168.166.61		7/28/2023 1:58:48 PM	DHCP	9679f853df96		Full Access	N/A	None	
+192.168.166.62	OPPO-F21-Pro.soct.com	7/28/2023 2:56:21 PM	DHCP	e6b55974eab5		Full Access	N/A	None	
+192.168.166.63	realme-5i.soct.com	7/28/2023 4:03:17 PM	DHCP	daedee087408		Full Access	N/A	None	
+192.168.166.64	OPPO-A77.soct.com	7/28/2023 3:48:25 PM	DHCP	96b9806b3eec		Full Access	N/A	None	
+192.168.166.65	Naresh-s-S20-FE.soct.com	7/28/2023 4:07:26 PM	DHCP	1248ce9ec131		Full Access	N/A	None	
+192.168.166.66		7/26/2023 9:42:05 PM	DHCP	84b8b86c43f1		Full Access	N/A	None	
+192.168.166.67	2109119DI.soct.com	7/28/2023 2:52:19 PM	DHCP	ae7e932c8146		Full Access	N/A	None	
+192.168.166.68		7/28/2023 3:49:00 PM	DHCP	763c9bc36e43		Full Access	N/A	None	
+192.168.166.69	venkata-s-M34.soct.com	7/28/2023 3:19:56 PM	DHCP	3ede7b86e8d1		Full Access	N/A	None	
+192.168.166.70	realme-8.soct.com	7/28/2023 1:48:57 PM	DHCP	1a1e5a38b404		Full Access	N/A	None	
+192.168.166.71	HYNB3KARUMILLI.soct.com	7/28/2023 4:08:17 PM	DHCP	b068e6814bc5		Full Access	N/A	None	
+192.168.166.72	Pixel-7.soct.com	7/28/2023 2:01:13 PM	DHCP	e6787ed4b5fb		Full Access	N/A	None	
+192.168.166.73		7/28/2023 8:19:06 AM	DHCP	5e380f57ae33		Full Access	N/A	None	
+192.168.166.74	Pixel-4a.soct.com	7/28/2023 3:50:56 PM	DHCP	f2f78ba3580d		Full Access	N/A	None	
+192.168.166.75	POCO-M2-Pro.soct.com	7/28/2023 5:26:41 AM	DHCP	0a40e0141439		Full Access	N/A	None	
+192.168.166.76		7/28/2023 10:20:11 AM	DHCP	da22f118c300		Full Access	N/A	None	
+192.168.166.77	Manmadh-s-Tab-A.soct.com	7/28/2023 2:04:57 PM	DHCP	2a2dc4ea83e1		Full Access	N/A	None	
+192.168.166.79		7/28/2023 5:25:41 AM	DHCP	569918e34d6c		Full Access	N/A	None	
+192.168.166.80		7/28/2023 1:22:49 PM	DHCP	4ee5c0112d01		Full Access	N/A	None	
+192.168.166.81	ANUP-s-M52.soct.com	7/28/2023 3:24:25 PM	DHCP	0a63dc54231d		Full Access	N/A	None	
+192.168.166.82	RedmiNote6Pro-Nagur.soct.com	7/28/2023 2:07:01 PM	DHCP	70bbe94ca41a		Full Access	N/A	None	
+192.168.166.83	I-am-GROOT.soct.com	7/27/2023 12:49:13 PM	DHCP	f228c27a7012		Full Access	N/A	None	
+192.168.166.84	Harshith-s-S21-FE.soct.com	7/28/2023 3:35:24 PM	DHCP	de5ab837d386		Full Access	N/A	None	
+192.168.166.85		7/27/2023 10:34:16 AM	DHCP	7af4060e614c		Full Access	N/A	None	
+192.168.166.86	Galaxy-Tab-A.soct.com	7/27/2023 4:50:59 PM	DHCP	ae8da818e49f		Full Access	N/A	None	
+192.168.166.87	HYBMALLAM.atai.ai	7/28/2023 12:52:27 PM	DHCP	00216bd599e0		Full Access	N/A	None	
+192.168.166.88	HYNB-RMAHANKALI12.soct.com	7/28/2023 9:22:04 AM	DHCP	b068e6dabde1		Full Access	N/A	None	
+192.168.166.89	Galaxy-Z-Flip3-5G.soct.com	7/27/2023 2:33:25 PM	DHCP	6ab3f431b711		Full Access	N/A	None	
+192.168.166.90	realme-X7-Max.soct.com	7/28/2023 1:25:14 PM	DHCP	7ebaa9f1c62b		Full Access	N/A	None	
+192.168.166.92	RpiFlt-HYD.soct.com	7/28/2023 3:48:31 PM	DHCP	e45f01f41fc2		Full Access	N/A	None	
+192.168.166.93	Galaxy-M30.soct.com	7/28/2023 4:02:26 PM	DHCP	3227bb48052a		Full Access	N/A	None	
+192.168.166.94	realme-6.soct.com	7/28/2023 1:44:03 PM	DHCP	f68aacaf4ddc		Full Access	N/A	None	
+192.168.166.97	OnePlus-Nord.soct.com	7/28/2023 2:51:44 PM	DHCP	0ebc77853def		Full Access	N/A	None	
+192.168.166.98	HYNB-LALLU.soct.com	7/28/2023 9:34:28 AM	DHCP	b068e6dbf405		Full Access	N/A	None	
+192.168.166.146	HYNB-MOULALI.soct.com	7/28/2023 11:33:22 AM	DHCP	b068e6bab2a3		Full Access	N/A	None	
+192.168.166.157	HYNBRTHALLAPELLY.soct.com	7/28/2023 2:29:47 PM	DHCP	b068e6daa943		Full Access	N/A	None	
+192.168.166.162	HYNB-srikar.soct.com	7/26/2023 5:20:13 PM	DHCP	b068e68146e3		Full Access	N/A	None	
+192.168.166.231	atai-Vostro-3580.soct.com	7/28/2023 3:10:43 PM	DHCP	b068e6b9a515		Full Access	N/A	None	
+192.168.166.239	mgollu-Vostro-3580.soct.com	7/28/2023 1:42:47 PM	DHCP	b068e6826643		Full Access	N/A	None	
